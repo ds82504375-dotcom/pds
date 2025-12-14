@@ -22,7 +22,7 @@ O projeto foi desenvolvido para se tornar um prontuário na palma da mão, um si
 ## Considerações finais
 O Github possibilitou a organização e a evolução do sistema, permitindo o registro de cada etapa a serem seguidos e realizados. 
 
-# Desenvolvido por:
+## Desenvolvido por:
 - Daniele
 - Elvis
 - Karine
