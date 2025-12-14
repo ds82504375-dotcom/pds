@@ -1,4 +1,4 @@
-# Sistema de lembretes em python
+# Prontuário de Sistema de lembretes em python
 
 ## Descrição
 O projeto foi desenvolvido para se tornar um prontuário na palma da mão, um sistema que serve para registrar todas as informações do assistido. Utilizando a linguagem python e conceitos básicos da programação.
